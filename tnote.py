@@ -13,7 +13,7 @@ import pystray
 from PIL import Image, ImageDraw, ImageGrab, ImageTk
 
 # ─── Version & mise à jour automatique ──────────────────────────────────────
-VERSION = "1.0.0"
+VERSION = "1.1.0"
 # Mets ici l'URL brute de ton repo GitHub (voir README pour setup)
 # Exemple : "https://raw.githubusercontent.com/fred/tnote/main/"
 UPDATE_URL = "https://raw.githubusercontent.com/Esteban-hye/Tnote/refs/heads/main/"
